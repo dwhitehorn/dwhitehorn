@@ -1,7 +1,7 @@
 ### Hello, I’m Daniel Whitehorn 👋
 ---
 
-#### I'm an aspiring Swift Developer based in Austin, Texas.
+#### An aspiring Swift Developer based in Austin, Texas
 
 - 🏢 I'm currently working full-time with amazing people at **Apple **
 - 🌱 Learning more about: **UIKit & SwiftUI**
