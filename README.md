@@ -1,7 +1,7 @@
 ### Hello, I’m Daniel Whitehorn 👋
 ---
 
-#### An aspiring Web& iOS Developer based in Austin, Texas
+#### An aspiring Web & iOS Developer based in Austin, Texas
 
 - 🏢 I'm currently working full-time with amazing people at **Apple **
 - 🌱 Learning more about: **Frontend Web Frameworks**
